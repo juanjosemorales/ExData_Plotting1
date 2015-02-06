@@ -25,7 +25,7 @@ plot4 <- function() {
         png("plot4.png", width=480, height=480)
         par(mfrow=c(2,2))
         plot(d$t, d$Global_active_power, type="l", xlab="", ylab="Global Active Power (kilowatts)")
-        plot(d$t, d$Voltage, type="l", xlab="Voltage", ylab="datetime")
+        plot(d$t, d$Voltage, type="l", xlab="datetime", ylab="Voltage")
         plot(d$t, d$Sub_metering_1, type="l", xlab="", ylab="Energy sub metering")
         lines(d$t, d$Sub_metering_2, col="red")
         lines(d$t, d$Sub_metering_3, col="blue")
