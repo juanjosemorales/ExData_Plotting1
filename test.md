@@ -15,30 +15,30 @@ Process description as a set of activities; for each activity, provide the follo
 - Entrance criteria (inputs needed for the activity)
 - Exit criteria (outputs produced by the activity and how you know it has been completed satisfactorily)
 
-- *Activity Name:* Create Requirement Document
-- *Activity Description:* The team has to gather requirements and create a document specifying the user requirements and the system functional and non-functional requirements. 
-- *Entrance criteria:* Gather all requirements.
-- *Exit criteria:* A Requirements Document that contains descriptive user requirements as well as specific and testable functional and non-functional system requirements. Stakeholder sign-off on Requirements.
+*Activity Name:* Create Requirement Document
+*Activity Description:* The team has to gather requirements and create a document specifying the user requirements and the system functional and non-functional requirements. 
+*Entrance criteria:* Gather all requirements.
+*Exit criteria:* A Requirements Document that contains descriptive user requirements as well as specific and testable functional and non-functional system requirements. Stakeholder sign-off on Requirements.
 
-- *Activity Name:* Generate Code
-- *Activity Description:* The team has to code a solution that will satisfy and comply with the requirements outlined in the requirements document.
-- *Entrance criteria:* There exists a completed requirements document.
-- *Exit criteria:* Working code that fulfils all requirements.
+*Activity Name:* Generate Code
+*Activity Description:* The team has to code a solution that will satisfy and comply with the requirements outlined in the requirements document.
+*Entrance criteria:* There exists a completed requirements document.
+*Exit criteria:* Working code that fulfils all requirements.
 
-- *Activity Name:* Test Code
-- *Activity Description:* The team has to develop test cases in order to ensure that the code complies with the specified requirements.
-- *Entrance criteria:* There exists a completed requirements document and a working program.
-- *Exit criteria:* A set of Test Cases and a Working version of the program that passes all test cases. QA sign-off on code.
+*Activity Name:* Test Code
+*Activity Description:* The team has to develop test cases in order to ensure that the code complies with the specified requirements.
+*Entrance criteria:* There exists a completed requirements document and a working program.
+*Exit criteria:* A set of Test Cases and a Working version of the program that passes all test cases. QA sign-off on code.
 
-- *Activity Name:* Create User Manual
-- *Activity Description:* The team has to document the code and generate a user manual that the users can easily understand. The user manual has to provide specific and concise instructions to the users on how to utilize the program.
-- *Entrance criteria:* A working version of the code.
-- *Exit criteria:* A concise user manual that specifies how the program is meant to be used. Stakeholder sign-off on Manual.
+*Activity Name:* Create User Manual
+*Activity Description:* The team has to document the code and generate a user manual that the users can easily understand. The user manual has to provide specific and concise instructions to the users on how to utilize the program.
+*Entrance criteria:* A working version of the code.
+*Exit criteria:* A concise user manual that specifies how the program is meant to be used. Stakeholder sign-off on Manual.
 
-- *Activity Name:* Deploy Code
-- *Activity Description:* The team has to deliver both the working version of the code and the user manual to the stakeholder.
-- *Entrance criteria:* A working version of the code and a user manual.
-- *Exit criteria:* Stakeholder sign off on project.
+*Activity Name:* Deploy Code
+*Activity Description:* The team has to deliver both the working version of the code and the user manual to the stakeholder.
+*Entrance criteria:* A working version of the code and a user manual.
+*Exit criteria:* Stakeholder sign off on project.
 
 
 ##3 Team
